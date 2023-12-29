@@ -1,4 +1,7 @@
 {
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -36,9 +39,6 @@
    "sizes": "180x180"
   }
  ],
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
- "name": "Morro Divino",
  "display": "fullscreen",
- "start_url": "index.htm"
+ "name": "Morro Divino"
 }
